@@ -13,4 +13,3 @@ Passion is my primary reason to do things. This post could serve as a double mea
 
 Hello, world. Let's explore and keep the passion alive.
 
-I am the Diabolical Grasshopper.
