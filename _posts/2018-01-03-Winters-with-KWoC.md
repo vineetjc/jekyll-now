@@ -6,19 +6,52 @@ title: Winters with KWoC (under construction)
 Project Name: AirHockey
 
 Mentor: Aniq Ur Rahman (@Aniq55)
-Issue1
 
-    Description
-    !Screenshots
 
-Commits
+Dear Reader,
 
-    commit1 link
-    commit2 link
+This winter, I, along with a few other people, helped @Aniq55 to work on this beauty of a game:
 
-Issue2
 
-...
+My contributions:
+
+Overall: 6 commits, 94++ 82-- (As of January 5, 2018)
+
+Issue 1: Backgroud music plays multiple times on round completion
+
+    Description: At the end of every round, the background music would play again over the already playing music, and this would repeat every round.
+    Link: https://github.com/NITDgpOS/AirHockey/issues/97
+
+Commits:
+
+    Link: https://github.com/NITDgpOS/AirHockey/pull/106
+
+
+Issue 2: Quit button on start screen not working 
+    
+    Description: The red quit button at the bottom right of the start screen lead the user to the next screen instead of quitting the game.
+    Link: https://github.com/NITDgpOS/AirHockey/issues/145
+    
+Commits:
+
+    Link: https://github.com/NITDgpOS/AirHockey/pull/148
+    Additional: Other than just fixing that button, I also added the functionality of the close button on the title bar of the game window. At anytime, the user can now quit by just clicking the close button on the top right, just like any other application window.
+    Screenshot: 
+    
+
+Issue 3: Errors with the end game screen
+
+    Description: Essentially an undefined variable (wrong variable name) in a function that ran at the completion of the game.
+    Link: https://github.com/NITDgpOS/AirHockey/issues/147
+    
+Commits: 
+    
+    Link: https://github.com/NITDgpOS/AirHockey/pull/149
+
+
+Issue 4: 
+
+
 My Experience with Kharagpur Winter of Code
 
 I'm very glad my elder sister told me about KWoC, because there couldn't have possibly been a better way to spend my time last vacation. Kharagput Winter of Code is an excellent initiative to get people started with contributing to projects and entering the world of Open Source. I did have prior experience with Git and GitHub, but this was a new experience on its own. I worked with a team bigger than I thought it would be, thanks to the amazing turnout when students were choosing their projects. Since it was just one month of coding, I felt a greater need to submit whatever I'm working on as soon as possible. I learnt to open issues and become better with pull requests. 
