@@ -29,7 +29,7 @@ A young soul is no more. He never knew maturity. He wasn't mature physically or 
 
 We are appreciating each other more now, and people who never ever said it, are saying how much they love every one of us. Our love for him adds on to our love for each other.
 
-![](https://github.com/vineetjc/vineetjc.github.io/blob/master/images/Screenshot-2018-1-5%20Instagram%20post%20by%20Adul%20Shamshir%20%E2%80%A2%20Jan%205%2C%202018%20at%206%2054am%20UTC.png)
+![](https://raw.githubusercontent.com/vineetjc/vineetjc.github.io/master/images/Harish.png)
 
 
 (Thanks Adul. This means a lot. (Instagram - adul_shamshir))
