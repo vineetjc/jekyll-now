@@ -4,9 +4,9 @@ title: Winters with KWoC
 ---
 
 This winter, I, along with a few other people, helped @Aniq55 to work on this beauty of a game(!):
+
 ### Project Name: AirHockey
 ### Mentor: Aniq Ur Rahman (@Aniq55)
-
 ![](https://raw.githubusercontent.com/vineetjc/vineetjc.github.io/master/images/playscreen.png)
 
 # About KWoC
