@@ -117,9 +117,12 @@ If only one player changed their name and if the other player box was left out, 
 # Future improvements in the Project
 
 Some things that could be still incorporated into the project, or at least, those that I'd put forward as suggestions and later code it out and send a PR for, are
-    1. The game wasn't made to support fullscreen in the first place. However, I feel that it could be a nice feature to implement. It would require a lot of work and changes in the code, but it would be alright an add-on feature. 
-    2. One more thing that the contributors of the project could work on is to make it Python 2/3 agnostic. Currently, the game runs on Python 2.x, but that limits Python 3 users initially, till they get a 2.x version.
-    3. There are still some issues to cover that are pertinent - bot vs human match, making the game internet multiplayer etc. That would essentially make the game, in a way, complete.
+
+1. The game wasn't made to support fullscreen in the first place. However, I feel that it could be a nice feature to implement. It would require a lot of work and changes in the code, but it would be alright an add-on feature. 
+
+2. One more thing that the contributors of the project could work on is to make it Python 2/3 agnostic. Currently, the game runs on Python 2.x, but that limits Python 3 users initially, till they get a 2.x version.
+
+3. There are still some issues to cover that are pertinent - bot vs human match, making the game internet multiplayer etc. That would essentially make the game, in a way, complete.
     
 It was a splendid experience working on this project over the winters, and I'm looking forward to contributing more to this project even after KWoC is now officially over for this year.
 
