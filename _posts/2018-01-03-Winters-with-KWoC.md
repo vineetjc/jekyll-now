@@ -5,9 +5,12 @@ title: Winters with KWoC
 
 This winter, I, along with a few other people, helped @Aniq55 to work on this beauty of a game(!):
 
-### Project Name: AirHockey
-### Mentor: Aniq Ur Rahman (@Aniq55)
+
 ![](https://raw.githubusercontent.com/vineetjc/vineetjc.github.io/master/images/playscreen.png)
+
+### Project Name: AirHockey
+### Mentor: Aniq Ur Rahman ([@Aniq55])
+[@Aniq55]: github.com/Aniq55
 
 # About KWoC
 KWoC (Kharagpur Winter Of Code) is an annual open source program conducted by Kharagpur Open Source Society, IIT Kharagpur. It is a five week long program that runs during the month of December. It is aimed at promoting open source participation and helping students prepare for events like GSoC.
