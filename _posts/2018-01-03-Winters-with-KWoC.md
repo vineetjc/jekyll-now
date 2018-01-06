@@ -3,8 +3,6 @@ layout: post
 title: Winters with KWoC
 ---
 
-Dear Reader,
-
 This winter, I, along with a few other people, helped @Aniq55 to work on this beauty of a game(!):
 ### Project Name: AirHockey
 ### Mentor: Aniq Ur Rahman (@Aniq55)
@@ -15,8 +13,9 @@ This winter, I, along with a few other people, helped @Aniq55 to work on this be
 KWoC (Kharagpur Winter Of Code) is an annual open source program conducted by Kharagpur Open Source Society, IIT Kharagpur. It is a five week long program that runs during the month of December. It is aimed at promoting open source participation and helping students prepare for events like GSoC.
 
 # About AirHockey
-AirHockey is the digital version of the Air Hockey game. This game is for two players, and was made using Python 2.x and pygame. 
-https://github.com/NITDgpOS/AirHockey#about-air-hockey
+AirHockey is the digital version of the Air Hockey game. This game is for two players, and was made using Python 2.x and pygame. Read more [here]
+
+[here]: https://github.com/NITDgpOS/AirHockey#about-air-hockey
 
 # My Experience with Kharagpur Winter of Code
 
@@ -29,11 +28,10 @@ I'm very glad my elder sister told me about KWoC, because there couldn't have po
 
 #### Description: 
 At the end of every round, the background music would play again over the already playing music, and this would repeat every round.
-#### Link:
-https://github.com/NITDgpOS/AirHockey/issues/97
-
-#### Commits: 
-https://github.com/NITDgpOS/AirHockey/pull/106
+#### [Link to issue 1]
+[Link to issue 1]: https://github.com/NITDgpOS/AirHockey/issues/97
+#### [Commits for issue 1]
+[Commits for issue 1]: https://github.com/NITDgpOS/AirHockey/pull/106
 
 ---
 
@@ -41,11 +39,10 @@ https://github.com/NITDgpOS/AirHockey/pull/106
 
 #### Description: 
 The red quit button at the bottom right of the start screen lead the user to the next screen instead of quitting the game.
-#### Link: 
-https://github.com/NITDgpOS/AirHockey/issues/145
-    
-#### Commits: 
-https://github.com/NITDgpOS/AirHockey/pull/148
+#### [Link to issue 2] 
+[Link to issue 2]: https://github.com/NITDgpOS/AirHockey/issues/145
+#### [Commits for issue 2] 
+[Commits for issue 2]: https://github.com/NITDgpOS/AirHockey/pull/148
 Additional: Other than just fixing that button, I also added the functionality of the close button on the title bar of the game window. At anytime, the user can now quit by just clicking the close button on the top right, just like any other application window.
 #### Screenshot: 
 
@@ -57,11 +54,11 @@ Additional: Other than just fixing that button, I also added the functionality o
 
 #### Description: 
 Essentially an undefined variable (wrong variable name) in a function that ran at the completion of the game.
-#### Link: 
-https://github.com/NITDgpOS/AirHockey/issues/147
+#### [Link to issue 3] 
+[Link to issue 3]: https://github.com/NITDgpOS/AirHockey/issues/147
     
-#### Commits: 
-https://github.com/NITDgpOS/AirHockey/pull/149
+#### [Commits for issue 3] 
+[Commits for issue 3]: https://github.com/NITDgpOS/AirHockey/pull/149
 
 ---
 
@@ -69,12 +66,18 @@ https://github.com/NITDgpOS/AirHockey/pull/149
 
 #### Description:
 The colour selection highlighter initially wouldn't update on mouseclick but only with keys 'a' and 'd'.  On top of that, there was just one highlighter while it would have made more sense for both players to have a selection highlighter for themselves.
-#### Link:
-https://github.com/NITDgpOS/AirHockey/issues/162
+#### [Link to issue 4]
+[Link to issue 4]:https://github.com/NITDgpOS/AirHockey/issues/162
 
-#### Commits:
-https://github.com/NITDgpOS/AirHockey/pull/156
-https://github.com/NITDgpOS/AirHockey/pull/167
+#### Commits for issue 4:
+[Updating with mouseclick]
+
+[Updating with mouseclick]: https://github.com/NITDgpOS/AirHockey/pull/156
+
+[Selector for both players]
+
+[Selector for both players]: https://github.com/NITDgpOS/AirHockey/pull/167
+
 ###### Screenshot:
 
 ![](https://raw.githubusercontent.com/vineetjc/vineetjc.github.io/master/images/startscreen.png)
@@ -85,26 +88,26 @@ https://github.com/NITDgpOS/AirHockey/pull/167
 
 #### Description:
 Using 'e' and 'h', user could select difficulty of game, 'Easy' or 'Hard', respectively. But with new updates, this function was not updated.
-#### Link:
-https://github.com/NITDgpOS/AirHockey/issues/187
+#### [Link to issue 5]
+[Link to issue 5]: https://github.com/NITDgpOS/AirHockey/issues/187
 
 ### Issue 6: Issues with entering player names
 
 #### Description: 
 If only one player changed their name and if the other player box was left out, it wouldn't reflect correct changes in the game.
-#### Link:
-https://github.com/NITDgpOS/AirHockey/issues/186
+#### [Link to issue 6]
+[Link to issue 6]: https://github.com/NITDgpOS/AirHockey/issues/186
 
 ### Issue 7: Wrong selected color displayed for Player 2
 
 #### Screenshot:
 ![](https://raw.githubusercontent.com/vineetjc/vineetjc.github.io/master/images/error.png)
 
-#### Link:
-https://github.com/NITDgpOS/AirHockey/issues/188
+#### [Link to issue 7]
+[Link to issue 7]: https://github.com/NITDgpOS/AirHockey/issues/188
 
-#### Commits for Issues 5, 6, 7: 
-https://github.com/NITDgpOS/AirHockey/pull/189
+#### [Commits for Issues 5, 6, 7] 
+[Commits for Issues 5, 6, 7]: https://github.com/NITDgpOS/AirHockey/pull/189
 
 ---
 
