@@ -8,7 +8,7 @@ Greetings, fellow reader.
 
 My name is Vineet Jiji Cherian.
 
-I am very bad at giving a quick introduction. I don't give an automated response of the form "<insert name>, <insert place>" when asked for an introduction. I don't know if I associate myself with any place at all, or if I do with every place I was at. 
+I am very bad at giving a quick introduction. I don't give an automated response of the form "(insert name), (insert place)" when asked for an introduction. I don't know if I associate myself with any place at all, or if I do with every place I was at. 
 
 I was born in Ranni, Kerala, on November 19, 1998. Soon enough, I moved to Haldia, West Bengal. In a couple of years, I moved to Panipat, Haryana. I spent 5 years there, and within that much time, I mastered Hindi and lost most of my fluency in Malayalam. Somewhere in the middle of 2007, I moved to Qatar, and my parents, my younger sister and I reside there ever since. 
 Currently, I am a B.Tech second-year student studying Computer Science at National Institute of Technology, Calicut, India.
