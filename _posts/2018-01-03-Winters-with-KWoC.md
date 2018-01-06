@@ -98,7 +98,7 @@ https://github.com/NITDgpOS/AirHockey/issues/186
 ### Issue 7: Wrong selected color displayed for Player 2
 
 #### Screenshot:
-![](https://user-images.githubusercontent.com/29430221/34467680-4522825e-eead-11e7-8fa0-052441bea65a.png)
+![](https://raw.githubusercontent.com/vineetjc/vineetjc.github.io/master/images/error.png)
 
 #### Link:
 https://github.com/NITDgpOS/AirHockey/issues/188
