@@ -23,7 +23,7 @@ https://github.com/NITDgpOS/AirHockey#about-air-hockey
 I'm very glad my elder sister told me about KWoC, because there couldn't have possibly been a better way to spend my time last vacation. Kharagput Winter of Code is an excellent initiative to get people started with contributing to projects and entering the world of Open Source. I had already worked with Git and GitHub before KWoC, but this was a new experience on its own. I worked with a team bigger than I thought it would be, thanks to the amazing turnout when students were choosing their projects. Since it was just one month of coding, I felt a greater need to submit whatever I'm working on as soon as possible. I learnt to open issues and become better with pull requests and messages on commits. Most importantly, I worked on project I really liked and could commit to (pun intended). 
 
 # My contributions:
-### Overall: 6 commits, 94++ 82-- (As of January 5, 2018)
+### Overall: 6 commits, 94++ 82- - (As of January 5, 2018)
 ---
 ### Issue 1: Backgroud music plays multiple times on round completion
 
