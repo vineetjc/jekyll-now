@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Winters with KWoC
+category: Tech
 ---
 
 This winter, I, along with a few other people, helped [@Aniq55] to work on this beauty of a game(!):
