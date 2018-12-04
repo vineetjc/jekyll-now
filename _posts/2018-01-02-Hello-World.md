@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A new passion?
+category: Personal
 ---
 
 Hello, world.
