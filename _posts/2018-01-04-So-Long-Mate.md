@@ -1,6 +1,7 @@
 ---
 layout: post
 title: So long, dear mate...
+category: Personal
 ---
 
 Not everyone begins the new year in a good tone, and I'm learning it the hard way.
