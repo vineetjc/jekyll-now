@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Long Hiatus Explained
+category: personal
 ---
 
 Hello world!
