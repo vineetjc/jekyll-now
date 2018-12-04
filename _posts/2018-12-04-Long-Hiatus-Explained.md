@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Winters with KWoC
+title: Long Hiatus Explained
 ---
 
 Hello world!
