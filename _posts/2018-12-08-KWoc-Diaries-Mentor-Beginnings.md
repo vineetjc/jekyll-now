@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Journey Of My Games (and one more project) - KWoC Diaries
+title: KWoC Diaries - Capturing the Journey of My Games (and one more project)
 category: Tech
 ---
 
