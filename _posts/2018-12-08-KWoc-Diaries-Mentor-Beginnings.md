@@ -27,7 +27,7 @@ This is how the game looked like before KWoC began, hopefully, it'll change and 
 ![](https://raw.githubusercontent.com/vineetjc/pygame-Search-the-Key/master/screenshots/2.png)
 
 ## 2. [Coin Fall game] 
-This is also a mini-game I made as part of [Monopoly-Custom] that goes with Search the Key. (Now that I think of it, I did way too much for 3 marks of my 100 for my 12th grade Computer Science).
+This is also a mini-game I made as part of [Monopoly-Custom] that goes with Search the Key. (Now that I think of it, I did way too much for 3 marks of my 100 for my 12th-grade Computer Science).
 
 [Monopoly-Custom]: https://github.com/vineetjc/Monopoly-Custom
 [Coin Fall game]: https://github.com/vineetjc/pygame-Coin-Fall-
