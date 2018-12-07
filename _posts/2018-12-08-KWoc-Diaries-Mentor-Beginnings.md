@@ -4,7 +4,9 @@ title: KWoC Diaries - Capturing the Journey of My Games (and one more project)
 category: Tech
 ---
 
-I'm taking part in this year's [IIT Kharagpur Winter of Code (KWoC)], but this time as a mentor! I'm very excited about this new opportunity that I got, and I hope to keep tracking progress on my projects with time.
+I'm taking part in this year's [IIT Kharagpur Winter of Code (KWoC)], but this time as a mentor! 
+
+I'm very excited about this new opportunity that I got, and I hope to keep tracking progress on my projects with time.
 
 [IIT Kharagpur Winter of Code (KWoC)]: https://kwoc.kossiitkgp.org/
 
