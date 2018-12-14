@@ -4,7 +4,7 @@ title: KWoC Diaries - Week 1 Review (👏👏)
 category: Tech
 ---
 
-A little more than a week has passed (counting from December 5, the official date of start) and I'm very happy to see a lot of changes have already been incorporated into my projects! Let's just get into it.
+A little more than a week has passed (counting from December 5, the official date of start) and I'm very happy to see a lot of changes have already been incorporated into my projects! Let's just jump into it!
 
 ## 1. [Search the Key]
 
@@ -60,7 +60,7 @@ I'm very happy with the people who are working on this project and I can't wait 
 [Fetch Amul Topicals]: https://github.com/vineetjc/fetch-amul-topicals
 
 #### Summary of contributions
-The program now runs in order of the years instead of a random order which was [one of our major issues](https://github.com/vineetjc/fetch-amul-topicals/issues/3)
+The program now runs in order of the years instead of a random order which was [one of our major issues](https://github.com/vineetjc/fetch-amul-topicals/issues/3).
 
 #### Contributors and their contributions
 [@vasugr] was the one who solved the above issue.
