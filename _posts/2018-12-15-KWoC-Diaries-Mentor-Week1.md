@@ -13,6 +13,8 @@ A little more than a week has passed (counting from December 5, the official dat
 #### Summary of progress
 We now have a start screen, how-to, end screen and restart button! It gives a nice feel to it on how a game usually works, where an ordinary user would expect these screens.
 
+![](https://raw.githubusercontent.com/vineetjc/vineetjc.github.io/master/images/startscreensearchkey.png)
+
 #### Contributors and their contributions
 - [@ckarthik14] added the start screen and instructions for playing, and edited some images by removing the white background from them.
 - [@divyang-mittal] added the end screen and restart button.
@@ -31,6 +33,8 @@ I'm looking forward to more contributions from more people who've joined [the Gi
 
 #### Summary of progress
 A lot of things have been changed in just around a week. The entire structure of the repository has changed to be much more organized. We have the main menu, an end screen and have introduced the concept of difficulty but needs more work on the game design. Coin sprites have been introduced, giving it a 3-D effect. Many images have been improved and it looks so much better than when I worked on it myself!
+
+![coinfall](https://user-images.githubusercontent.com/30645315/49618512-ebdd3980-f9de-11e8-9691-132b1d119dbb.gif)
 
 #### Contributors and their contributions
 I was very happy seeing some enthusiastic developers begin working even before the official start date! We've already worked on 5000+ lines of code (includes additions and deletions) and as I write this, I have pending PRs I need to review!

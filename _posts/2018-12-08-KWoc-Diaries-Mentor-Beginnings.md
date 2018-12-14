@@ -4,7 +4,9 @@ title: KWoC Diaries - Capturing the Journey of My Games (and one more project)
 category: Tech
 ---
 
-I'm taking part in this year's [IIT Kharagpur Winter of Code (KWoC)], but this time as a mentor! 
+I'm taking part in this year's [IIT Kharagpur Winter of Code (KWoC)], but this time as a mentor!
+
+![](https://raw.githubusercontent.com/vineetjc/vineetjc.github.io/master/images/kwocsiteprojectlist.png)
 
 I'm very excited about this new opportunity that I got, and I hope to keep tracking progress on my projects with time.
 
@@ -26,7 +28,7 @@ This is how the game looked like before KWoC began, hopefully, it'll change and 
 
 ![](https://raw.githubusercontent.com/vineetjc/pygame-Search-the-Key/master/screenshots/2.png)
 
-## 2. [Coin Fall game] 
+## 2. [Coin Fall game]
 This is also a mini-game I made as part of [Monopoly-Custom] that goes with Search the Key. (Now that I think of it, I did way too much for 3 marks of my 100 for my 12th-grade Computer Science).
 
 [Monopoly-Custom]: https://github.com/vineetjc/Monopoly-Custom
