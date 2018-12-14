@@ -4,7 +4,7 @@ title: KWoC Diaries - Week 1 Review (👏👏)
 category: Tech
 ---
 
-A little more than a week has passed (counting from December 5, the official date of start) and I'm very happy to see a lot of changes have already been incorporated to my projects! Let's just get into it.
+A little more than a week has passed (counting from December 5, the official date of start) and I'm very happy to see a lot of changes have already been incorporated into my projects! Let's just get into it.
 
 ## 1. [Search the Key]
 
@@ -14,7 +14,7 @@ A little more than a week has passed (counting from December 5, the official dat
 We now have a start screen, how-to, end screen and restart button! It gives a nice feel to it on how a game usually works, where an ordinary user would expect these screens.
 
 #### Contributors and their contributions
-- [@ckarthik14] added the start screen and instructions for playing, and edited some images by removing white background from them.
+- [@ckarthik14] added the start screen and instructions for playing, and edited some images by removing the white background from them.
 - [@divyang-mittal] added the end screen and restart button.
 - [@piba941] helped with a bug in which at the end of the game, the key earlier used to be drawn on top of the thermometer.
 
@@ -30,10 +30,10 @@ I'm looking forward to more contributions from more people who've joined [the Gi
 [Coin Fall game]: https://github.com/vineetjc/pygame-Coin-Fall-
 
 #### Summary of progress
-A lot of things have been changed in just around a week. The entire structure of the repository has changed to be much more organized. We have a main menu, an end screen and have introduced the concept of difficulty but needs more work on the game design. Coin sprites have been introduced, giving it a 3-D effect. Many images have been improved and it looks so much better than when I worked on it myself!
+A lot of things have been changed in just around a week. The entire structure of the repository has changed to be much more organized. We have the main menu, an end screen and have introduced the concept of difficulty but needs more work on the game design. Coin sprites have been introduced, giving it a 3-D effect. Many images have been improved and it looks so much better than when I worked on it myself!
 
 #### Contributors and their contributions
-I was very happy seeing some enthusiatic developers begin working even before the official date of start! We've already worked on 5000+ lines of code (includes additions and deletions) and as I write this, I have pending PRs I need to review!
+I was very happy seeing some enthusiastic developers begin working even before the official start date! We've already worked on 5000+ lines of code (includes additions and deletions) and as I write this, I have pending PRs I need to review!
 
 - [@amrit-choudhary] was one of the early ones who has helped majorly with this project. He brought a new structure to the code by refactoring and reorganizing all files and folders. I must say, one of the things that makes a good mentor is not just to help people get started, but also if they can learn a thing or two from others, and safe to say, Amrit has helped me gain knowledge on some healthy practices and I realize its importance, and now it's become a necessity for me while I'm writing code.
 - [@kartikct25] introduced difficulty levels in our game! It still needs work and thought on what constitutes difficulty, but that's a matter of game design, and will be done along the course of the program.
@@ -66,5 +66,5 @@ The program now runs in order of the years instead of a random order which was [
 I would like to see more work on the project because this is a project I really like, partly because of my experience contributing to it at the end of my first year in college, and I know it has a lot of scope in terms of what one can make and what one can learn from it.
 
 ---
-I think it's easier that I write about all three projects in one place (I can't seem to point out if it's merely laziness :p).
+I think it's easier to write about all three projects in one place (I can't seem to point out if it's merely laziness :p).
 More on my projects next week!
