@@ -67,7 +67,7 @@ The program now runs in order of the years instead of a random order which was [
 
 [@vasugr]: https://github.com/vasugr
 
-I would like to see more work on the project because this is a project I really like, partly because of my experience contributing to it at the end of my first year in college, and I know it has a lot of scope in terms of what one can make and what one can learn from it.
+A couple of people are working on their PRs I believe. I hope next week I can write more here. I would like to see more work on the project because this is a project I really like, partly because of my experience contributing to it at the end of my first year in college, and I know it has a lot of scope in terms of what one can make and what one can learn from it.
 
 ---
 I think it's easier to write about all three projects in one place (I can't seem to point out if it's merely laziness :p).
