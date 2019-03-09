@@ -4,8 +4,6 @@ title: Contact Me
 permalink: /contact/
 ---
 
-### Contact me
-
 Email: [vineetjc@yahoo.com](mailto:vineetjc@yahoo.com)
 
 ### Me elsewhere on social media:
