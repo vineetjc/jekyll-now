@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BREAKING NEWS: Modiji Eats Mangoes!
+title: BREAKING NEWS - Modiji Eats Mangoes!
 category: Personal
 ---
 
@@ -10,7 +10,7 @@ Now I usually don't plan blogposts - I write what comes to me as it comes. This 
 
 Some time ago in history, [Karan Thapar interviewed Modi once] and had a line of questions for him about correcting his image from the Gujarat riots, and Modiji was visibly uncomfortable. The Devil's Advocate has astonished quite many people during his interviews with them, but nothing of that sort is seen in news channels today. The ones getting interviewed have the script ready and somehow have the power to modify it before the actual interview, or call for a rerun of the interview if the journalist dare take it in a direction that is off the script, or sometimes, if I may dare to say so, even 'do their job' properly.
 
-[Karan Thapar interviewed Modi once]: https://www.youtube.com/watch?v=uqIuYi_SiSg
+[Karan Thapar interviewed Modi once]:
 
 First WWE, and now Indian journalism. Earlier it was intense and had everything out there, and now a lot of it is censored, the true, sensible and unbiased fans/viewers are unhappy, and wish for off-script moments, but the actors involved can't take the risk in fear of losing their jobs. We know it - our current various news channels now clearly portray different biases, and we don't know what information to intake right away.
 
