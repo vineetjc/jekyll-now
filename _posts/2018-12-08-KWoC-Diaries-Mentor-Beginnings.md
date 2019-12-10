@@ -53,7 +53,7 @@ Now, I can't show a proper picture for this, but to get an idea, I can use this 
 
 [this website]: http://www.amul.com/m/amul-hits
 
-![](http://www.amul.com/files/hits/amul-hits-2631.jpg)
+![](https://raw.githubusercontent.com/vineetjc/vineetjc.github.io/master/images/amul-hits-2631.jpg)
 
 (Caption (as on the website): "Hailing judiciary's recent landmark judgements! Oct '18")
 
