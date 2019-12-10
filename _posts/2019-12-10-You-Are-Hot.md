@@ -43,3 +43,7 @@ It's a two part plan - being confident (without thinking twice about it), and **
 
 
 ![](https://raw.githubusercontent.com/vineetjc/vineetjc.github.io/master/images/hotasfuck.jpg)
+
+---
+
+I do not mean to undervalue or dismiss the serious toll such negativity can take on your physical and mental health. I hope that this post starts a conversation somehow. I hope this post serves a good enough reminder to you. Please share this with someone you love and someone who may need this. Talk to your loved ones if you have such issues. If you need a third person to talk to, I'm all ears. I believe talking helps. Take care of yourself. Peace!
