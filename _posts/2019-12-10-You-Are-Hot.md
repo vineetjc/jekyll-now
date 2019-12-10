@@ -5,7 +5,7 @@ category: Personal
 ---
 
 
-This isn't (just) an appreciation post for my partner. This might not be a unique or smart way to get the message across. But, let this post serve as a reminder for everyone, for something that is supposed to be a very simple concept. We tend to forget things time to time. So it only makes sense that we all need reminders.
+This might not be a unique or smart way to get the message across. But, let this post serve as a reminder for everyone, for something that is supposed to be a very simple concept. We tend to forget things time to time. So it only makes sense that we all need reminders.
 
 Here's how I got the inspiration/urge to write this (story time!) - my partner wouldn't wear a dress to dinner at where she's staying right now, because when she tried it on, some people 'stared at her'. She admitted she 'didn't have the confidence' and 'was scared of people passing comments'. She 'felt weird and underconfident by the stares' that she 'felt the need to change to her usual T-shirt and jeans'. She's 'scared of people judging her' (not my words).
 
