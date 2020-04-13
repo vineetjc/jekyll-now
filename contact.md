@@ -4,16 +4,10 @@ title: Contact Me
 permalink: /contact/
 ---
 
-Email: [vineetjc@yahoo.com](mailto:vineetjc@yahoo.com)
+[Email me! I still like emailing.](mailto:vineetjc@yahoo.com)
 
-### Me elsewhere on social media:
+### Me elsewhere:
 
-Facebook: [vj.cookieman1d](https://www.facebook.com/vj.cookieman1d)
+[I make and post stuff I think is funny on my Instagram](https://www.instagram.com/winit_jc)
 
-Twitter: [@VineetJC](https://www.twitter.com/vineetjc)
-
-Instagram: [@winit_jc](https://www.instagram.com/winit_jc)
-
-Quora: [Vineet-J-Cherian on Quora](https://www.quora.com/profile/Vineet-J-Cherian)
-
-LinkedIn: [/in/vineetjc](https://www.linkedin.com/in/vineetjc)
+[Are you a professional? Check my LinkedIn profile here](https://www.linkedin.com/in/vineetjc)
